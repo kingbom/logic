@@ -14,14 +14,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5736767">
+    <splitter split-orientation="horizontal" split-proportion="0.61731046">
       <split-first>
         <leaf>
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/com/kingbom/logic/DrawStar.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="480">
-                  <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+                <state relative-caret-position="364">
+                  <caret line="50" column="16" lean-forward="true" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
                 </state>
               </provider>
             </entry>
@@ -33,8 +33,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/test/java/com/kingbom/logic/DrawStarTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="255">
-                  <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+                <state relative-caret-position="271">
+                  <caret line="21" column="47" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="47" />
                   <folding>
                     <element signature="imports" expanded="true" />
                     <element signature="e#311#312#0" expanded="true" />
@@ -147,7 +147,7 @@
     <property name="TF_FMT" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584876035619" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584879213456" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -262,7 +262,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584636145474</updated>
-      <workItem from="1584636151135" duration="15053000" />
+      <workItem from="1584636151135" duration="15726000" />
     </task>
     <task id="LOCAL-00001" summary="[Add] DrawStar diamond with for, while, do while loop">
       <created>1584638731272</created>
@@ -271,28 +271,17 @@
       <option name="project" value="LOCAL" />
       <updated>1584638731272</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="[Add] draw diamond increment and decrement for loop solution">
+      <created>1584876100231</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584876100231</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DrawStarTest_givenDrawStar_whenDiamondInputNumberSix_forLoop - 2020.03.22 at 18h 00m 43s.xml">
-      <configuration name="DrawStarTest.givenDrawStar_whenDiamondInputNumberSix_forLoop" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DrawStarTest_givenDrawStar_whenDiamondInputNumberSix_forLoop - 2020.03.22 at 18h 01m 06s.xml">
-      <configuration name="DrawStarTest.givenDrawStar_whenDiamondInputNumberSix_forLoop" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DrawStarTest_givenDrawStar_whenDiamondInputNumberSix_forLoop - 2020.03.22 at 18h 03m 25s.xml">
-      <configuration name="DrawStarTest.givenDrawStar_whenDiamondInputNumberSix_forLoop" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DrawStarTest_givenDrawStar_whenDiamondInputNumberSix_forLoop - 2020.03.22 at 18h 04m 42s.xml">
-      <configuration name="DrawStarTest.givenDrawStar_whenDiamondInputNumberSix_forLoop" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DrawStarTest_givenDrawStar_whenDiamondInputNumberSix_forLoop - 2020.03.22 at 18h 06m 29s.xml">
-      <configuration name="DrawStarTest.givenDrawStar_whenDiamondInputNumberSix_forLoop" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DrawStarTest_givenDrawStar_whenDiamondInputNumberSix_forLoop - 2020.03.22 at 18h 06m 53s.xml">
-      <configuration name="DrawStarTest.givenDrawStar_whenDiamondInputNumberSix_forLoop" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="DrawStarTest_givenDrawStar_whenDiamondInputNumberSix_forLoop - 2020.03.22 at 18h 07m 42s.xml">
       <configuration name="DrawStarTest.givenDrawStar_whenDiamondInputNumberSix_forLoop" configurationId="JUnit" />
     </history-entry>
@@ -305,9 +294,36 @@
     <history-entry file="DrawStarTest_givenDrawStar_whenDiamondInputNumberSix_whileLoop - 2020.03.22 at 18h 14m 33s.xml">
       <configuration name="DrawStarTest.givenDrawStar_whenDiamondInputNumberSix_whileLoop" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="DrawStarTest_givenDrawStar_whenDiamondInputNumberSix_forLoop - 2020.03.22 at 19h 04m 02s.xml">
+      <configuration name="DrawStarTest.givenDrawStar_whenDiamondInputNumberSix_forLoop" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DrawStarTest_givenDrawStar_whenDiamondInputNumberSix_forLoop - 2020.03.22 at 19h 04m 14s.xml">
+      <configuration name="DrawStarTest.givenDrawStar_whenDiamondInputNumberSix_forLoop" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DrawStarTest_givenDrawStar_whenDiamondInputNumberSix_forLoop - 2020.03.22 at 19h 04m 36s.xml">
+      <configuration name="DrawStarTest.givenDrawStar_whenDiamondInputNumberSix_forLoop" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DrawStarTest_givenDrawStar_whenDiamondInputNumberSix_forLoop - 2020.03.22 at 19h 04m 44s.xml">
+      <configuration name="DrawStarTest.givenDrawStar_whenDiamondInputNumberSix_forLoop" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DrawStarTest_givenDrawStar_whenDiamondInputNumberSix_forLoop - 2020.03.22 at 19h 05m 05s.xml">
+      <configuration name="DrawStarTest.givenDrawStar_whenDiamondInputNumberSix_forLoop" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DrawStarTest_givenDrawStar_whenDiamondInputNumberSix_whileLoop - 2020.03.22 at 19h 05m 47s.xml">
+      <configuration name="DrawStarTest.givenDrawStar_whenDiamondInputNumberSix_whileLoop" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15053000" />
+    <option name="totallyTimeSpent" value="15726000" />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -330,11 +346,11 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.526506" />
       <window_info anchor="bottom" id="Message" order="8" />
       <window_info anchor="bottom" id="Find" order="9" />
-      <window_info anchor="bottom" id="Run" order="10" weight="0.036144577" />
+      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.4120482" />
       <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="14" />
+      <window_info anchor="bottom" id="TODO" order="14" weight="0.32891566" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Database" order="2" />
@@ -359,15 +375,15 @@
       <window_info anchor="bottom" id="SonarLint" order="3" />
       <window_info anchor="bottom" id="JProfiler" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="5" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="6" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Version Control" order="6" weight="0.32891566" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.526506" />
       <window_info anchor="bottom" id="Message" order="8" />
       <window_info anchor="bottom" id="Find" order="9" />
-      <window_info anchor="bottom" id="Run" order="10" weight="0.036144577" />
+      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.4566265" />
       <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="14" />
+      <window_info anchor="bottom" id="TODO" order="14" weight="0.32891566" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Database" order="2" />
@@ -384,7 +400,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[Add] DrawStar diamond with for, while, do while loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="[Add] DrawStar diamond with for, while, do while loop" />
+    <MESSAGE value="[Add] draw diamond increment and decrement for loop solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Add] draw diamond increment and decrement for loop solution" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -395,6 +412,12 @@
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/kingbom/logic/DrawStarTest.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -402,10 +425,17 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kingbom/logic/DrawStar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="50" column="16" lean-forward="true" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/kingbom/logic/DrawStarTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        <state relative-caret-position="271">
+          <caret line="21" column="47" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#311#312#0" expanded="true" />
@@ -415,13 +445,6 @@
             <element signature="e#589#590#0" expanded="true" />
             <element signature="e#649#650#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/kingbom/logic/DrawStar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
         </state>
       </provider>
     </entry>

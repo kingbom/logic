@@ -2,7 +2,7 @@ package com.kingbom.logic;
 
 public class DrawStar {
 
-    //Start solution for loop increment and decrement
+    //1. solution for loop increment and decrement
     public void drawDiamondWithNumberForLoop(int number) {
         for (int i = 1; i <= number; i++) {
             int incrementWhiteSpace =  (number - i);
@@ -34,6 +34,7 @@ public class DrawStar {
     }
     //End solution for loop increment and decrement
 
+    //2. solution while loop increment and decrement
     public void drawDiamondWithNumberWhileLoop(int number) {
         int i = 0;
         while (i <= number) {
@@ -41,6 +42,14 @@ public class DrawStar {
             whileLoopDrawWithNumber((i * 2) -1 , "*");
             System.out.println();
             i++;
+        }
+
+        int j = 0;
+        while (j <= number) {
+            whileLoopDrawWithNumber(j, " ");
+            revertWhileLoopWithNumber(((number -j) * 2) -1 , "*");
+            System.out.println();
+            j++;
         }
     }
 
@@ -51,6 +60,15 @@ public class DrawStar {
             j++;
         }
     }
+
+    public void revertWhileLoopWithNumber(int number , String draw){
+        int j = number;
+        while (j > 0) {
+            System.out.print(draw);
+            j--;
+        }
+    }
+    //End solution while loop increment and decrement
 
     public void drawDiamondWithNumberDoWhileLoop(int number) {
         int i = 0;
