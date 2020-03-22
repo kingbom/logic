@@ -70,6 +70,7 @@ public class DrawStar {
     }
     //End solution while loop increment and decrement
 
+    //3. solution do while loop increment and decrement
     public void drawDiamondWithNumberDoWhileLoop(int number) {
         int i = 0;
         if (i <= number) {
@@ -79,6 +80,16 @@ public class DrawStar {
                 System.out.println();
                 i++;
             } while (i <= number);
+        }
+
+        int j = 0;
+        if (j <= number) {
+            do {
+                doWhileLoopDrawWithNumber(j, " ");
+                revertDoWhileLoopDrawWithNumber(((number - j) * 2) - 1, "*");
+                System.out.println();
+                j++;
+            } while (j <= number);
         }
     }
 
@@ -92,4 +103,14 @@ public class DrawStar {
         }
     }
 
+    public void revertDoWhileLoopDrawWithNumber(int number, String draw) {
+        int j = number;
+        if (j > 0) {
+            do {
+                System.out.print(draw);
+                j--;
+            } while (j > 0);
+        }
+    }
+    //End solution do while loop increment and decrement
 }
